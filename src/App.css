@@ -1,0 +1,8 @@
+.pinstripe {
+  background: repeating-linear-gradient(
+    #eaeaea,
+    #eaeaea 1px,
+    #fbfbfb 1px,
+    #fbfbfb 8px
+  );
+}
